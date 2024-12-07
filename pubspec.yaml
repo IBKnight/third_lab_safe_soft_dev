@@ -1,14 +1,16 @@
-name: second_practice_save_app_dev
-description: A sample command-line application.
+name: second_practice_and_third_lab_save_app_dev
+description: 2-ая практическая и 3 лабораторная работы по разработке безопасного по
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:
   sdk: ^3.2.6
 
-# Add regular dependencies here.
+
 dependencies:
   crypto: ^3.0.5
+  html: ^0.15.5
+  http: ^1.2.2
   # path: ^1.8.0
 
 dev_dependencies:
